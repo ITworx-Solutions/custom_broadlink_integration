@@ -1,7 +1,7 @@
 {
   "domain": "broadlink",
   "name": "Broadlink RM5 Plus (Custom)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/ITworx-Solutions/custom_broadlink_integration",
   "requirements": ["broadlink @ git+https://github.com/ITworx-Solutions/pythonbroadlink.git@main"],
   "dependencies": [],
