@@ -22,5 +22,5 @@
   "requirements": [
     "broadlink @ git+https://github.com/ITworx-Solutions/pythonbroadlink.git@main"
   ],
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
