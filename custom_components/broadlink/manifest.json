@@ -1,1 +1,10 @@
-
+{
+  "domain": "broadlink",
+  "name": "Broadlink RM5 Plus (Custom)",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ITworx-Solutions/custom_broadlink_integration",
+  "requirements": ["broadlink==0.18.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "local_polling"
+}
